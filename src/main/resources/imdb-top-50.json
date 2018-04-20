@@ -1,0 +1,257 @@
+[
+  {
+    "id": "1",
+    "title": "The Shawshank Redemption",
+    "type": "OldFilm"
+  },
+  {
+    "id": "2",
+    "title": "The Godfather",
+    "type": "OldFilm"
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "type": "Regular"
+  },
+  {
+    "id": "4",
+    "title": "Pulp Fiction",
+    "type": "OldFilm"
+  },
+  {
+    "id": "5",
+    "title": "Schindler's List",
+    "type": "OldFilm"
+  },
+  {
+    "id": "6",
+    "title": "The Lord of the Rings: The Return of the King",
+    "type": "Regular"
+  },
+  {
+    "id": "7",
+    "title": "12 Angry Men",
+    "type": "OldFilm"
+  },
+  {
+    "id": "8",
+    "title": "The Good, the Bad and the Ugly",
+    "type": "OldFilm"
+  },
+  {
+    "id": "10",
+    "title": "Forrest Gump",
+    "type": "OldFilm"
+  },
+  {
+    "id": "11",
+    "title": "Inception",
+    "type": "Regular"
+  },
+  {
+    "id": "12",
+    "title": "Fight Club",
+    "type": "OldFilm"
+  },
+  {
+    "id": "13",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "Regular"
+  },
+  {
+    "id": "14",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "type": "OldFilm"
+  },
+  {
+    "id": "15",
+    "title": "Dangal",
+    "type": "NewRelease"
+  },
+  {
+    "id": "16",
+    "title": "The Matrix",
+    "type": "OldFilm"
+  },
+  {
+    "id": "17",
+    "title": "Goodfellas",
+    "type": "OldFilm"
+  },
+  {
+    "id": "18",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "type": "OldFilm"
+  },
+  {
+    "id": "19",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "type": "OldFilm"
+  },
+  {
+    "id": "20",
+    "title": "City of God",
+    "type": "Regular"
+  },
+  {
+    "id": "21",
+    "title": "The Lord of the Rigs: The Two Tower",
+    "type": "Regular"
+  },
+  {
+    "id": "22",
+    "title": "Seven Samurai",
+    "type": "OldFilm"
+  },
+  {
+    "id": "23",
+    "title": "Interstellar",
+    "type": "NewRelease"
+  },
+  {
+    "id": "24",
+    "title": "Saving Private Ryan",
+    "type": "OldFilm"
+  },
+  {
+    "id": "25",
+    "title": "Léon: The Professional",
+    "type": "OldFilm"
+  },
+  {
+    "id": "26",
+    "title": "The Silence of the Lambs",
+    "type": "OldFilm"
+  },
+  {
+    "id": "27",
+    "title": "Se7en",
+    "type": "OldFilm"
+  },
+  {
+    "id": "28",
+    "title": "Your name",
+    "type": "NewRelease"
+  },
+  {
+    "id": "29",
+    "title": "The Usual Suspects",
+    "type": "OldFilm"
+  },
+  {
+    "id": "30",
+    "title": "Spirited Away",
+    "type": "Regular"
+  },
+  {
+    "id": "31",
+    "title": "The Intouchables",
+    "type": "Regular"
+  },
+  {
+    "id": "32",
+    "title": "Life Is Beautiful",
+    "type": "OldFilm"
+  },
+  {
+    "id": "33",
+    "title": "Once Upon a Time in the West",
+    "type": "OldFilm"
+  },
+  {
+    "id": "34",
+    "title": "It's a Wonderful Life",
+    "type": "OldFilm"
+  },
+  {
+    "id": "35",
+    "title": "City Lights",
+    "type": "OldFilm"
+  },
+  {
+    "id": "36",
+    "title": "Mi padre y mi hijo",
+    "type": "Regular"
+  },
+  {
+    "id": "37",
+    "title": "Gladiator",
+    "type": "Regular"
+  },
+  {
+    "id": "38",
+    "title": "The Prestige",
+    "type": "Regular"
+  },
+  {
+    "id": "39",
+    "title": "The Dark Knight Rises",
+    "type": "Regular"
+  },
+  {
+    "id": "40",
+    "title": "Alien",
+    "type": "OldFilm"
+  },
+  {
+    "id": "41",
+    "title": "Whiplash",
+    "type": "NewRelease"
+  },
+  {
+    "id": "42",
+    "title": "The Departed",
+    "type": "Regular"
+  },
+  {
+    "id": "43",
+    "title": "Back to the Future",
+    "type": "OldFilm"
+  },
+  {
+    "id": "44",
+    "title": "Rear Window",
+    "type": "OldFilm"
+  },
+  {
+    "id": "45",
+    "title": "The Green Mile",
+    "type": "OldFilm"
+  },
+  {
+    "id": "46",
+    "title": "Apocalypse Now",
+    "type": "OldFilm"
+  },
+  {
+    "id": "47",
+    "title": "Memento",
+    "type": "Regular"
+  },
+  {
+    "id": "48",
+    "title": "The Lion King",
+    "type": "OldFilm"
+  },
+  {
+    "id": "49",
+    "title": "Psycho",
+    "type": "OldFilm"
+  },
+  {
+    "id": "50",
+    "title": "American History X",
+    "type": "OldFilm"
+  }
+]
+
+
+
+
+
+
+
+
+
+
